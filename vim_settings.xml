@@ -10,6 +10,11 @@
       <file name="$USER_HOME$/github/torobroker/server/logs/torokcbp.log" timestamp="1454422336684" />
       <file name="$USER_HOME$/github/toroagent/server/src/main/java/com/toroagent/main/DailyRunMain.java" timestamp="1454421113885" />
       <file name="$USER_HOME$/github/toroagent/server/conf/log4j.properties" timestamp="1454421436213" />
+      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/common/exception/ExceptionTypes.java" timestamp="1454300653266">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/common/ToroConfig.java" timestamp="1454421064829" />
       <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/main/CallGlsc.java" timestamp="1454325192207">
         <mark key="[" line="7" column="23" />
@@ -25,11 +30,15 @@
         <mark key="." line="80" column="22" />
       </file>
       <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/web/resolver/SecurityResolver.java" timestamp="1454484784072" />
-      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/t2sdk-config.xml" timestamp="1454485435245">
-        <mark key="[" line="15" column="35" />
-        <mark key="]" line="15" column="54" />
-        <mark key="." line="15" column="54" />
-        <mark key="^" line="15" column="54" />
+      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/utils/ProtoJsonUtil.java" timestamp="1454314557097">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/t2sdk-config.xml" timestamp="1454486576793">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/hundsun/LogAdapter.java" timestamp="1454422595316">
         <mark key="[" line="16" column="16" />
@@ -37,11 +46,11 @@
         <mark key="^" line="16" column="15" />
         <mark key="." line="16" column="16" />
       </file>
-      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/glsc/GlscService.java" timestamp="1454485457873">
-        <mark key="[" line="63" column="52" />
-        <mark key="]" line="64" column="28" />
-        <mark key="." line="64" column="28" />
-        <mark key="^" line="64" column="28" />
+      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/glsc/GlscService.java" timestamp="1454486744911">
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="0" />
+        <mark key="." line="162" column="0" />
+        <mark key="^" line="162" column="0" />
       </file>
       <file name="$USER_HOME$/github/toroback/server/src/main/java/com/toroback/web/admin/controller/AdminLogController.java" timestamp="1454419986157" />
       <file name="/HTML File.txt.ft" timestamp="1453806217199">
@@ -55,6 +64,11 @@
         <mark key="]" line="13" column="86" />
         <mark key="^" line="13" column="86" />
         <mark key="." line="13" column="86" />
+      </file>
+      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/main/JresTest.java" timestamp="1454486990043">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/web/ToroContextListener.java" timestamp="1454420990067">
         <mark key="[" line="34" column="0" />
@@ -70,8 +84,8 @@
       <jump line="92" column="79" filename="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/main/JresTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgR2xzY1NlcnZpY2UuSU5TVEFOQ0Uuc2VuZEFzeW5jUmVxdWVzdChSZXF1ZXN0RXZlbnQuQklORF9DSEVDS19FVkVOVF9WQUxVRSwgc3BlY2lhbEJpbmRDaGVja0V2ZW50KCkpOwo=</text>
       </register>
       <register name="i" type="4">
         <text>hannel_i</text>
@@ -85,32 +99,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBTdHJpbmcgYWNjb3VudCA9ICI4ODAxMTM0NSI7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>p</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgR2xzY1NlcnZpY2UuSU5TVEFOQ0Uuc2VuZEFzeW5jUmVxdWVzdChSZXF1ZXN0RXZlbnQuQklORF9DSEVDS19FVkVOVF9WQUxVRSwgc3BlY2lhbEJpbmRDaGVja0V2ZW50KCkpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>p</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAvKioKICAgKiDlvILmraXosIPnlKgKICAgKgogICAqIEBwYXJhbSBldmVudElkIOaWueazlSA8Yj7lv4XpobvlnKh0MnNkay1jb25maWcueG1sPC9iPiDkuK3phY3nva4KICAgKiBAcGFyYW0gcmVxdWVzdCDor7fmsYIKICAgKi8KICBwdWJsaWMgdm9pZCBzZW5kQXN5bmNSZXF1ZXN0KGludCBldmVudElkLCBHZW5lcmF0ZWRNZXNzYWdlIHJlcXVlc3QpIHRocm93cyBHbHNjRXhjZXB0aW9uIHsKICAgIElFdmVudCByZXF1ZXN0RXZlbnQgPSBwdXRFdmVudERhdGEoZXZlbnRJZCwgcmVxdWVzdCwgcmVxdWVzdC5nZXRDbGFzcygpKTsKICAgIHJlcXVlc3RFdmVudC5zZXRBdHRyaWJ1dGVWYWx1ZShFdmVudFRhZ2RlZi5UQUdfU0VOREVSSUQsIGV2ZW50SWQpOwogICAgdHJ5IHsKICAgICAgY2xpZW50LnNlbmQocmVxdWVzdEV2ZW50KTsKICAgIH0gY2F0Y2ggKFQyU0RLRXhjZXB0aW9uIGUpIHsKICAgICAgdGhyb3cgbmV3IEdsc2NFeGNlcHRpb24oIlNlcnZlciBlcnJvcjogIiwgZS5maWxsSW5TdGFja1RyYWNlKCksIEV4Y2VwdGlvblR5cGVzLkJST0tFUl9TRVJWRVJfRVJST1IpOwogICAgfQogIH0KfQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>hundsunp</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICA8Y2FsbEJhY2tNZXRob2RzPgogICAgPG1ldGhvZCBpZD0iOTE0MDA0IiBjbGFzc05hbWU9ImNvbS50b3JvYnJva2VyLmdsc2MuQXNzZXRRdWVyeUNhbGxiYWNrIi8+CiAgPC9jYWxsQmFja01ldGhvZHM+Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>p</text>
       </register>
       <register name="5" type="4">
-        <text>log</text>
+        <text>p</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text>hundsunp</text>
       </register>
       <register name="7" type="4">
-        <text>toro</text>
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">Iiwg</text>
+        <text>log</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">OiA=</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

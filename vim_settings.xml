@@ -1,0 +1,98 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/main/JresTest.java" timestamp="1454471191419">
+        <mark key="[" line="26" column="5" />
+        <mark key="]" line="24" column="30" />
+        <mark key="." line="24" column="30" />
+        <mark key="^" line="24" column="30" />
+      </file>
+      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/glsc/AssetQueryCallback.java" timestamp="1454470513211">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="29" />
+        <mark key="^" line="7" column="32" />
+        <mark key="." line="7" column="29" />
+      </file>
+      <file name="$USER_HOME$/github/torobroker/server/libs/com.hundsun.t2sdk-ext-1.1.12.jar!/com/hundsun/t2sdk/interfaces/share/event/EventTagdef.class" timestamp="1454470569286" />
+      <file name="/a.dummy" timestamp="1454471418901">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/glsc/GlscService.java" timestamp="1454471377598">
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="." line="177" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/t2sdk-config.xml" timestamp="1454471303309">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="66" />
+        <mark key="^" line="15" column="66" />
+        <mark key="." line="15" column="66" />
+      </file>
+      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/main/CallBack.java" timestamp="1454471313235" />
+      <file name="$USER_HOME$/github/torobroker/server/logs/torohundsun.log" timestamp="1454426676699" />
+      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/proto/data/Glsc.java" timestamp="1454471165146" />
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHNlcnZlci5zdG9wKCk7Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNlcnZlci5zdG9wKCk7Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text>g</text>
+      </register>
+      <register name="3" type="4">
+        <text>l</text>
+      </register>
+      <register name="4" type="4">
+        <text>s</text>
+      </register>
+      <register name="5" type="4">
+        <text>c</text>
+      </register>
+      <register name="6" type="4">
+        <text>.</text>
+      </register>
+      <register name="7" type="4">
+        <text>A</text>
+      </register>
+      <register name="8" type="4">
+        <text>s</text>
+      </register>
+      <register name="9" type="4">
+        <text>s</text>
+      </register>
+      <register name="-" type="4">
+        <text>g</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+</application>

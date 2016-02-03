@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/github/toroback/server/src/main/java/com/toroback/utils/StockUtils.java" timestamp="1454496822923">
+      <file name="$USER_HOME$/github/toroback/server/src/main/java/com/toroback/utils/StockUtils.java" timestamp="1454496837370">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
@@ -28,7 +28,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/github/toroback/server/src/main/java/com/toroback/utils/jdbf/QuoteRefresher.java" timestamp="1454496725813" />
+      <file name="$USER_HOME$/github/toroback/server/src/main/java/com/toroback/utils/jdbf/QuoteRefresher.java" timestamp="1454497301289" />
       <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/common/ToroConfig.java" timestamp="1454421064829" />
       <file name="$USER_HOME$/github/toroback/server/src/main/java/com/toroback/utils/jdbf/reader/DbfReader.java" timestamp="1454496646050" />
       <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/main/CallGlsc.java" timestamp="1454325192207">

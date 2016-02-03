@@ -24,12 +24,12 @@
         <mark key="^" line="41" column="41" />
         <mark key="." line="80" column="22" />
       </file>
-      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/web/resolver/SecurityResolver.java" timestamp="1454484608153" />
-      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/t2sdk-config.xml" timestamp="1454483422456">
-        <mark key="[" line="17" column="25" />
-        <mark key="]" line="17" column="57" />
-        <mark key="." line="17" column="57" />
-        <mark key="^" line="17" column="57" />
+      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/web/resolver/SecurityResolver.java" timestamp="1454484784072" />
+      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/t2sdk-config.xml" timestamp="1454484849940">
+        <mark key="[" line="15" column="35" />
+        <mark key="]" line="15" column="54" />
+        <mark key="." line="15" column="54" />
+        <mark key="^" line="15" column="54" />
       </file>
       <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/hundsun/LogAdapter.java" timestamp="1454422595316">
         <mark key="[" line="16" column="16" />

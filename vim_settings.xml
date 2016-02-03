@@ -3,7 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1454422614160">
+      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/main/GlscTest.java" timestamp="1454487243504">
+        <mark key="]" line="8" column="16" />
+        <mark key="^" line="8" column="16" />
+        <mark key="." line="8" column="16" />
+      </file>
+      <file name="/a.dummy" timestamp="1454487014543">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/torobroker/server/logs/torohundsun.log" timestamp="1454422585798" />
@@ -65,10 +70,11 @@
         <mark key="^" line="13" column="86" />
         <mark key="." line="13" column="86" />
       </file>
-      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/main/JresTest.java" timestamp="1454486990043">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/main/JresTest.java" timestamp="1454487235174">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+        <mark key="^" line="11" column="40" />
       </file>
       <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/web/ToroContextListener.java" timestamp="1454420990067">
         <mark key="[" line="34" column="0" />
@@ -84,14 +90,14 @@
       <jump line="92" column="79" filename="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/main/JresTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgR2xzY1NlcnZpY2UuSU5TVEFOQ0Uuc2VuZEFzeW5jUmVxdWVzdChSZXF1ZXN0RXZlbnQuQklORF9DSEVDS19FVkVOVF9WQUxVRSwgc3BlY2lhbEJpbmRDaGVja0V2ZW50KCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="i" type="4">
         <text>hannel_i</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>appedner</text>
@@ -99,32 +105,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBTdHJpbmcgYWNjb3VudCA9ICI4ODAxMTM0NSI7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgR2xzY1NlcnZpY2UuSU5TVEFOQ0Uuc2VuZEFzeW5jUmVxdWVzdChSZXF1ZXN0RXZlbnQuQklORF9DSEVDS19FVkVOVF9WQUxVRSwgc3BlY2lhbEJpbmRDaGVja0V2ZW50KCkpOwo=</text>
+      <register name="1" type="4">
+        <text>s</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAvKioKICAgKiDlvILmraXosIPnlKgKICAgKgogICAqIEBwYXJhbSBldmVudElkIOaWueazlSA8Yj7lv4XpobvlnKh0MnNkay1jb25maWcueG1sPC9iPiDkuK3phY3nva4KICAgKiBAcGFyYW0gcmVxdWVzdCDor7fmsYIKICAgKi8KICBwdWJsaWMgdm9pZCBzZW5kQXN5bmNSZXF1ZXN0KGludCBldmVudElkLCBHZW5lcmF0ZWRNZXNzYWdlIHJlcXVlc3QpIHRocm93cyBHbHNjRXhjZXB0aW9uIHsKICAgIElFdmVudCByZXF1ZXN0RXZlbnQgPSBwdXRFdmVudERhdGEoZXZlbnRJZCwgcmVxdWVzdCwgcmVxdWVzdC5nZXRDbGFzcygpKTsKICAgIHJlcXVlc3RFdmVudC5zZXRBdHRyaWJ1dGVWYWx1ZShFdmVudFRhZ2RlZi5UQUdfU0VOREVSSUQsIGV2ZW50SWQpOwogICAgdHJ5IHsKICAgICAgY2xpZW50LnNlbmQocmVxdWVzdEV2ZW50KTsKICAgIH0gY2F0Y2ggKFQyU0RLRXhjZXB0aW9uIGUpIHsKICAgICAgdGhyb3cgbmV3IEdsc2NFeGNlcHRpb24oIlNlcnZlciBlcnJvcjogIiwgZS5maWxsSW5TdGFja1RyYWNlKCksIEV4Y2VwdGlvblR5cGVzLkJST0tFUl9TRVJWRVJfRVJST1IpOwogICAgfQogIH0KfQo=</text>
+      <register name="2" type="4">
+        <text>e</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICA8Y2FsbEJhY2tNZXRob2RzPgogICAgPG1ldGhvZCBpZD0iOTE0MDA0IiBjbGFzc05hbWU9ImNvbS50b3JvYnJva2VyLmdsc2MuQXNzZXRRdWVyeUNhbGxiYWNrIi8+CiAgPC9jYWxsQmFja01ldGhvZHM+Cg==</text>
+      <register name="3" type="4">
+        <text>r</text>
       </register>
       <register name="4" type="4">
-        <text>p</text>
+        <text>J</text>
       </register>
       <register name="5" type="4">
-        <text>p</text>
+        <text>3</text>
       </register>
       <register name="6" type="4">
-        <text>hundsunp</text>
+        <text>0</text>
       </register>
       <register name="7" type="4">
-        <text>.</text>
+        <text>0</text>
       </register>
       <register name="8" type="4">
-        <text>log</text>
+        <text>2</text>
       </register>
-      <register name="9" type="4">
-        <text>.</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgR2xzY1NlcnZpY2UuSU5TVEFOQ0Uuc2VuZEFzeW5jUmVxdWVzdChSZXF1ZXN0RXZlbnQuQklORF9DSEVDS19FVkVOVF9WQUxVRSwgc3BlY2lhbEJpbmRDaGVja0V2ZW50KCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/main/GlscTest.java" timestamp="1454488873944">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="40" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/main/GlscTest.java" timestamp="1454490166116">
+        <mark key="[" line="11" column="38" />
+        <mark key="]" line="11" column="47" />
+        <mark key="^" line="11" column="47" />
+        <mark key="." line="11" column="47" />
       </file>
-      <file name="/a.dummy" timestamp="1454487593221">
+      <file name="/a.dummy" timestamp="1454489210219">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/torobroker/server/logs/torohundsun.log" timestamp="1454422585798" />
@@ -52,7 +52,7 @@
         <mark key="^" line="16" column="15" />
         <mark key="." line="16" column="16" />
       </file>
-      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/glsc/GlscService.java" timestamp="1454488958568">
+      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/glsc/GlscService.java" timestamp="1454489259652">
         <mark key="[" line="162" column="0" />
         <mark key="]" line="162" column="0" />
         <mark key="." line="162" column="0" />
@@ -60,6 +60,9 @@
       </file>
       <file name="$USER_HOME$/github/toroback/server/src/main/java/com/toroback/web/admin/controller/AdminLogController.java" timestamp="1454419986157" />
       <file name="/HTML File.txt.ft" timestamp="1453806217199">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1454489210211">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/torobroker/server/logs/torobroker.log" timestamp="1454422162939" />
@@ -91,47 +94,47 @@
       <jump line="92" column="79" filename="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/main/JresTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvL3ByaXZhdGUgc3RhdGljIFN0cmluZyBmdW5kQWNjb3VudCA9ICI4ODAxMTM1MSI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>13230241</text>
       </register>
       <register name="i" type="4">
         <text>hannel_i</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>13230241</text>
       </register>
       <register name="/" type="4">
         <text>appedner</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBTdHJpbmcgYWNjb3VudCA9ICI4ODAxMTM0NSI7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBTdHJpbmcgYWNjb3VudCA9ICIxMzIzMDI0MSI7Cg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>13230241</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAvL3ByaXZhdGUgc3RhdGljIFN0cmluZyBmdW5kQWNjb3VudCA9ICI4ODAxMTM1MSI7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>0</text>
-      </register>
       <register name="3" type="4">
-        <text>&quot;</text>
+        <text>0</text>
       </register>
       <register name="4" type="4">
         <text>&quot;</text>
       </register>
       <register name="5" type="4">
-        <text>20170101</text>
+        <text>&quot;</text>
       </register>
       <register name="6" type="4">
-        <text>&quot;</text>
+        <text>20170101</text>
       </register>
       <register name="7" type="4">
         <text>&quot;</text>
       </register>
       <register name="8" type="4">
-        <text>20170101</text>
+        <text>&quot;</text>
       </register>
       <register name="9" type="4">
-        <text>s</text>
+        <text>20170101</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

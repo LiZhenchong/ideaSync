@@ -24,12 +24,6 @@
         <mark key="]" line="177" column="0" />
         <mark key="." line="177" column="0" />
       </file>
-      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/t2sdk-config.xml" timestamp="1454471303309">
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="15" column="66" />
-        <mark key="^" line="15" column="66" />
-        <mark key="." line="15" column="66" />
-      </file>
       <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/main/CallBack.java" timestamp="1454471313235" />
       <file name="$USER_HOME$/github/torobroker/server/logs/torohundsun.log" timestamp="1454426676699" />
       <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/proto/data/Glsc.java" timestamp="1454471165146" />

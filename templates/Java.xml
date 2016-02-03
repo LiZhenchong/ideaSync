@@ -1,0 +1,24 @@
+<templateSet group="Java">
+  <template name="jmain" value="public static void main(String[] args){&#10;}" description="main" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
+  <template name="jprint" value="System.out.println(&quot;&quot;);" description="print" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
+</templateSet>

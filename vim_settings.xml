@@ -8,11 +8,11 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/main/GlscTest.java" timestamp="1454576138894">
-        <mark key="[" line="11" column="37" />
-        <mark key="]" line="11" column="40" />
-        <mark key="^" line="11" column="40" />
-        <mark key="." line="11" column="40" />
+      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/main/GlscTest.java" timestamp="1454579847421">
+        <mark key="[" line="22" column="46" />
+        <mark key="]" line="22" column="46" />
+        <mark key="." line="22" column="46" />
+        <mark key="^" line="22" column="46" />
       </file>
       <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/utils/ProtoJsonUtil.java" timestamp="1454314557097">
         <mark key="[" line="86" column="0" />
@@ -38,11 +38,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/glsc/GlscService.java" timestamp="1454576061053">
-        <mark key="[" line="109" column="25" />
-        <mark key="]" line="109" column="53" />
-        <mark key="." line="109" column="53" />
-        <mark key="^" line="109" column="53" />
+      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/glsc/GlscService.java" timestamp="1454577536941">
+        <mark key="[" line="95" column="23" />
+        <mark key="]" line="66" column="59" />
+        <mark key="." line="66" column="59" />
+        <mark key="^" line="66" column="59" />
       </file>
       <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/core.broker.db.sql" timestamp="1454556254426" />
       <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/main/CallGlsc.java" timestamp="1454325192207">
@@ -95,13 +95,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1001</text>
+        <text>11233175</text>
       </register>
       <register name="i" type="4">
         <text>hannel_i</text>
       </register>
       <register name="-" type="4">
-        <text>1001</text>
+        <text>11233175</text>
       </register>
       <register name="/" type="4">
         <text>appedner</text>
@@ -110,31 +110,31 @@
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBTU1pfMzAwX0lOREVYX0NPREUgPSAiU1ozOTkzMDAiOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>1001</text>
+        <text>11233175</text>
       </register>
-      <register name="2" type="4">
-        <text>XH0011</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZXRCaW5kQWNjb3VudChiaW5kQWNjb3VudCk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>setAccount</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZHMuYWRkQ29sdW1uKG5hbWUsIERhdGFzZXRDb2x1bW5UeXBlLkRTX0lOVCk7Cg==</text>
+      <register name="4" type="4">
+        <text>4</text>
       </register>
-      <register name="5" type="4">
-        <text>bind_account</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy9kcy51cGRhdGVTdHJpbmcocGFyYW0uZ2V0S2V5KCksIHBhcmFtLmdldFZhbHVlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZih2YWx1ZUludCAhPSAwKSB7CiAgICAgICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBHbHNjU2VydmljZS5JTlNUQU5DRS5zdG9wKCk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpSykgewogICAgICAgIH0K</text>
+      <register name="8" type="4">
+        <text>{</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">KSkg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -160,7 +160,11 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>

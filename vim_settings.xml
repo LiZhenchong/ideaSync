@@ -64,6 +64,9 @@
         <mark key="^" line="41" column="41" />
         <mark key="." line="80" column="22" />
       </file>
+      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/hundsun.broker.db.sql" timestamp="1454589096696">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/glsc/AssetQueryCallback.java" timestamp="1454483416538">
         <mark key="[" line="9" column="30" />
         <mark key="]" line="13" column="86" />
@@ -163,6 +166,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed BACK_SLASH</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>

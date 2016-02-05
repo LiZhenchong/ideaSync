@@ -19,7 +19,7 @@
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1454589766023">
+      <file name="/a.dummy" timestamp="1454590580325">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/torobroker/server/src/main/resources/t2sdk-config.xml" timestamp="1454486576793">
@@ -33,10 +33,22 @@
         <mark key="^" line="16" column="15" />
         <mark key="." line="16" column="16" />
       </file>
+      <file name="$USER_HOME$/github/toroback/server/src/main/java/com/toroback/web/controllers/PositionController.java" timestamp="1454669616834">
+        <mark key="[" line="364" column="0" />
+        <mark key="]" line="364" column="0" />
+        <mark key="^" line="333" column="29" />
+        <mark key="." line="364" column="0" />
+      </file>
       <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/common/exception/ExceptionTypes.java" timestamp="1454300653266">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/toroback/server/src/main/java/com/toroback/web/controllers/TradeRecordController.java" timestamp="1454669212089">
+        <mark key="[" line="123" column="20" />
+        <mark key="]" line="123" column="22" />
+        <mark key="." line="123" column="22" />
+        <mark key="^" line="123" column="22" />
       </file>
       <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/glsc/GlscService.java" timestamp="1454577536941">
         <mark key="[" line="95" column="23" />
@@ -51,7 +63,13 @@
       <file name="/HTML File.txt.ft" timestamp="1453806217199">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1454492190235">
+      <file name="$USER_HOME$/github/toroback/server/src/main/java/com/toroback/dao/transaction/TradingDataPublicDelayConfigService.java" timestamp="1454668608045">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/github/toroback/server/src/main/java/com/toroback/dao/transaction/TradeRecordService.java" timestamp="1454668266929" />
+      <file name="/Dummy.txt" timestamp="1454590580315">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/toroback/server/src/main/java/com/toroback/dao/DAO.java" timestamp="1453731138109">
@@ -64,8 +82,11 @@
         <mark key="^" line="41" column="41" />
         <mark key="." line="80" column="22" />
       </file>
-      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/hundsun.broker.db.sql" timestamp="1454589640163">
+      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/hundsun.broker.db.sql" timestamp="1454663887123">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="20" />
+        <mark key="^" line="9" column="20" />
+        <mark key="." line="9" column="20" />
       </file>
       <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/glsc/AssetQueryCallback.java" timestamp="1454483416538">
         <mark key="[" line="9" column="30" />
@@ -97,14 +118,14 @@
       <jump line="92" column="79" filename="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/main/JresTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>11233175</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJlc3Auc2V0QXZhaWxhYmxlKGlzU2hpZWxkKTsK</text>
       </register>
       <register name="i" type="4">
         <text>hannel_i</text>
       </register>
       <register name="-" type="4">
-        <text>11233175</text>
+        <text>else{</text>
       </register>
       <register name="/" type="4">
         <text>appedner</text>
@@ -112,32 +133,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBTU1pfMzAwX0lOREVYX0NPREUgPSAiU1ozOTkzMDAiOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>11233175</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHJlc3Auc2V0QXZhaWxhYmxlKGlzU2hpZWxkKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRCaW5kQWNjb3VudChiaW5kQWNjb3VudCk7Cg==</text>
+        <text encoding="base64">ICAgIGJvb2xlYW4gaXNTaGllbGQgPSBmYWxzZTsKICAgIGlmKCFzZWxmKSB7CiAgICAgIGlzU2hpZWxkID0gdHJhZGluZ0RhdGFQdWJsaWNEZWxheUNvbmZpZ1NlcnZpY2UuaXNWYWxpZFJlY29yZCh1aWQsIFRpbWVIZWxwZXIuY3VycmVudFRpbWVzdGFtcCgpLCBUcmFkaW5nRGF0YUtpbmQuU1RPQ0tfSE9MRF9LSU5EKTsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="4">
-        <text>4</text>
+        <text>else{</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgCg==</text>
+        <text encoding="base64">ICAgIHJlc3Auc2V0QXZhaWxhYmxlKGlzU2hpZWxkKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgcmVzcC5zZXRBdmFpbGFibGUoZmFsc2UpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBHbHNjU2VydmljZS5JTlNUQU5DRS5zdG9wKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwLnNldEF2YWlsYWJsZShmYWxzZSk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>{</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXNwLnNldEF2YWlsYWJsZShmYWxzZSk7Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Enumerations.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

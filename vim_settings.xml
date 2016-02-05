@@ -27,13 +27,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/hundsun/LogAdapter.java" timestamp="1454422595316">
-        <mark key="[" line="16" column="16" />
-        <mark key="]" line="16" column="16" />
-        <mark key="^" line="16" column="15" />
-        <mark key="." line="16" column="16" />
-      </file>
-      <file name="$USER_HOME$/github/toroback/server/src/main/java/com/toroback/web/controllers/PositionController.java" timestamp="1454669616834">
+      <file name="$USER_HOME$/github/toroback/server/src/main/java/com/toroback/web/controllers/PositionController.java" timestamp="1454669619806">
         <mark key="[" line="364" column="0" />
         <mark key="]" line="364" column="0" />
         <mark key="^" line="333" column="29" />
@@ -76,35 +70,11 @@
         <mark key="[" line="330" column="3" />
       </file>
       <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/proto/data/Glsc.java" timestamp="1454574174670" />
-      <file name="$USER_HOME$/github/torobroker/server/conf/log4j.properties" timestamp="1454422546851">
-        <mark key="[" line="80" column="22" />
-        <mark key="]" line="80" column="22" />
-        <mark key="^" line="41" column="41" />
-        <mark key="." line="80" column="22" />
-      </file>
       <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/hundsun.broker.db.sql" timestamp="1454663887123">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="9" column="20" />
         <mark key="^" line="9" column="20" />
         <mark key="." line="9" column="20" />
-      </file>
-      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/glsc/AssetQueryCallback.java" timestamp="1454483416538">
-        <mark key="[" line="9" column="30" />
-        <mark key="]" line="13" column="86" />
-        <mark key="^" line="13" column="86" />
-        <mark key="." line="13" column="86" />
-      </file>
-      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/main/JresTest.java" timestamp="1454487235174">
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="13" />
-        <mark key="." line="8" column="13" />
-        <mark key="^" line="11" column="40" />
-      </file>
-      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/web/ToroContextListener.java" timestamp="1454420990067">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="9" column="31" />
-        <mark key="." line="34" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1454575749982">
         <mark key="[" line="0" column="0" />

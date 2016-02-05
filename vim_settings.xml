@@ -19,7 +19,7 @@
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1454590580325">
+      <file name="/a.dummy" timestamp="1454670455256">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/torobroker/server/src/main/resources/t2sdk-config.xml" timestamp="1454486576793">
@@ -27,22 +27,22 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/github/toroback/server/src/main/java/com/toroback/web/controllers/PositionController.java" timestamp="1454669619806">
-        <mark key="[" line="364" column="0" />
-        <mark key="]" line="364" column="0" />
-        <mark key="^" line="333" column="29" />
-        <mark key="." line="364" column="0" />
+      <file name="$USER_HOME$/github/toroback/server/src/main/java/com/toroback/web/controllers/PositionController.java" timestamp="1454672333836">
+        <mark key="[" line="328" column="26" />
+        <mark key="]" line="328" column="29" />
+        <mark key="^" line="328" column="29" />
+        <mark key="." line="328" column="29" />
       </file>
       <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/common/exception/ExceptionTypes.java" timestamp="1454300653266">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/github/toroback/server/src/main/java/com/toroback/web/controllers/TradeRecordController.java" timestamp="1454669212089">
-        <mark key="[" line="123" column="20" />
-        <mark key="]" line="123" column="22" />
-        <mark key="." line="123" column="22" />
-        <mark key="^" line="123" column="22" />
+      <file name="$USER_HOME$/github/toroback/server/src/main/java/com/toroback/web/controllers/TradeRecordController.java" timestamp="1454672389033">
+        <mark key="[" line="123" column="23" />
+        <mark key="]" line="128" column="52" />
+        <mark key="." line="128" column="52" />
+        <mark key="^" line="128" column="52" />
       </file>
       <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/glsc/GlscService.java" timestamp="1454577536941">
         <mark key="[" line="95" column="23" />
@@ -63,7 +63,7 @@
         <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/github/toroback/server/src/main/java/com/toroback/dao/transaction/TradeRecordService.java" timestamp="1454668266929" />
-      <file name="/Dummy.txt" timestamp="1454590580315">
+      <file name="/Dummy.txt" timestamp="1454670461049">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/toroback/server/src/main/java/com/toroback/dao/DAO.java" timestamp="1453731138109">
@@ -88,14 +88,14 @@
       <jump line="92" column="79" filename="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/main/JresTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlc3Auc2V0QXZhaWxhYmxlKGlzU2hpZWxkKTsK</text>
+      <register name="&quot;" type="4">
+        <text>alse</text>
       </register>
       <register name="i" type="4">
         <text>hannel_i</text>
       </register>
       <register name="-" type="4">
-        <text>else{</text>
+        <text>alse</text>
       </register>
       <register name="/" type="4">
         <text>appedner</text>
@@ -103,32 +103,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBTU1pfMzAwX0lOREVYX0NPREUgPSAiU1ozOTkzMDAiOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlc3Auc2V0QXZhaWxhYmxlKGlzU2hpZWxkKTsK</text>
+      <register name="1" type="4">
+        <text>alse</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGJvb2xlYW4gaXNTaGllbGQgPSBmYWxzZTsKICAgIGlmKCFzZWxmKSB7CiAgICAgIGlzU2hpZWxkID0gdHJhZGluZ0RhdGFQdWJsaWNEZWxheUNvbmZpZ1NlcnZpY2UuaXNWYWxpZFJlY29yZCh1aWQsIFRpbWVIZWxwZXIuY3VycmVudFRpbWVzdGFtcCgpLCBUcmFkaW5nRGF0YUtpbmQuU1RPQ0tfSE9MRF9LSU5EKTsKICAgIH0K</text>
+      <register name="2" type="4">
+        <text>f</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgcmVzcC5zZXRBdmFpbGFibGUodHJhZGluZ0RhdGFQdWJsaWNEZWxheUNvbmZpZ1NlcnZpY2UuaXNWYWxpZFJlY29yZCh1aWQsIFRpbWVIZWxwZXIuY3VycmVudFRpbWVzdGFtcCgpLCBUcmFkaW5nRGF0YUtpbmQuU1RPQ0tfSE9MRF9LSU5EKWQpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>else{</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGJvb2xlYW4gaXNTaGllbGQgPSBmYWxzZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlc3Auc2V0QXZhaWxhYmxlKGlzU2hpZWxkKTsK</text>
+        <text encoding="base64">ICAgICAgaXNTaGllbGQgPSB0cmFkaW5nRGF0YVB1YmxpY0RlbGF5Q29uZmlnU2VydmljZS5pc1ZhbGlkUmVjb3JkKHVpZCwgVGltZUhlbHBlci5jdXJyZW50VGltZXN0YW1wKCksIFRyYWRpbmdEYXRhS2luZC5TVE9DS19IT0xEX0tJTkQpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmVzcC5zZXRBdmFpbGFibGUoZmFsc2UpOwo=</text>
+      <register name="6" type="4">
+        <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwLnNldEF2YWlsYWJsZShmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXNwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwLnNldEF2YWlsYWJsZShmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgIGJvb2xlYW4gaXNTaGllbGQgPSBmYWxzZTsKICAgIGlmKCFzZWxmKSB7CiAgICAgIGlzU2hpZWxkID0gdHJhZGluZ0RhdGFQdWJsaWNEZWxheUNvbmZpZ1NlcnZpY2UuaXNWYWxpZFJlY29yZCh1aWQsIFRpbWVIZWxwZXIuY3VycmVudFRpbWVzdGFtcCgpLCBUcmFkaW5nRGF0YUtpbmQuVFJBREVfUkVDT1JEX0tJTkQpOwogICAgfQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>Enumerations.</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHJlc3Auc2V0QXZhaWxhYmxlKGlzU2hpZWxkKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

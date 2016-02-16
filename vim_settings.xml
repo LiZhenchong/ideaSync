@@ -28,11 +28,10 @@
         <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/github/toroagent/server/src/main/java/com/toroagent/utils/DisplayUtil.java" timestamp="1455642607508" />
-      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/toro.db.sql" timestamp="1455644716518">
-        <mark key="[" line="18" column="48" />
-        <mark key="]" line="18" column="55" />
-        <mark key="^" line="18" column="55" />
-        <mark key="." line="18" column="55" />
+      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/toro.db.sql" timestamp="1455647954073">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/github/toroback/server/src/main/java/com/toroback/web/controllers/PositionController.java" timestamp="1454672333836">
         <mark key="[" line="328" column="26" />
@@ -80,15 +79,15 @@
       <file name="$USER_HOME$/github/toroback/server/src/main/java/com/toroback/dao/DAO.java" timestamp="1453731138109">
         <mark key="[" line="330" column="3" />
       </file>
-      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/glsc.broker.db.sql" timestamp="1455643635059">
-        <mark key="[" line="205" column="0" />
-        <mark key="]" line="205" column="0" />
-        <mark key="^" line="204" column="11" />
-        <mark key="." line="205" column="0" />
+      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/glsc.broker.db.sql" timestamp="1455645793325">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="27" />
+        <mark key="^" line="11" column="27" />
+        <mark key="." line="11" column="27" />
       </file>
       <file name="$USER_HOME$/github/toroagent/server/src/main/java/com/toroagent/kcbp/handler/BalanceHandler.java" timestamp="1455641330776" />
       <file name="$USER_HOME$/github/toroagent/server/src/main/java/com/toroagent/proto/data/Enumerations.java" timestamp="1455641571246" />
-      <file name="$USER_HOME$/github/toroback/server/src/main/resources/sql/core.db.sql" timestamp="1455644305515" />
+      <file name="$USER_HOME$/github/toroback/server/src/main/resources/sql/core.db.sql" timestamp="1455647789010" />
       <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/hundsun.broker.db.sql" timestamp="1455639651642">
         <mark key="[" line="195" column="66" />
         <mark key="]" line="195" column="66" />
@@ -112,14 +111,14 @@
       <jump line="92" column="79" filename="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/main/JresTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAtLQogIGByZWFsX3Byb2ZpdGAgZG91YmxlKDIwLDQpIGRlZmF1bHQgMCwKICBgcmVhbF9wcm9maXRfcmF0ZWAgZG91YmxlKDIwLDQpIGRlZmF1bHQgMCwKICBgZGVhbF9wb3NpdGlvbmAgZG91YmxlKDIwLDQpIGRlZmF1bHQgMCwK</text>
       </register>
       <register name="i" type="4">
         <text>hannel_i</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>VARCHAR</text>
       </register>
       <register name="/" type="4">
         <text>appedner</text>
@@ -127,32 +126,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBgYmluZF9hY2NvdW50YCBWQVJDSEFSKDI1NSkgTk9UIE5VTEwgLAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>,</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAtLQogIGByZWFsX3Byb2ZpdGAgZG91YmxlKDIwLDQpIGRlZmF1bHQgMCwKICBgcmVhbF9wcm9maXRfcmF0ZWAgZG91YmxlKDIwLDQpIGRlZmF1bHQgMCwKICBgZGVhbF9wb3NpdGlvbmAgZG91YmxlKDIwLDQpIGRlZmF1bHQgMCwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBQUklNQVJZIEtFWSAoYGlkYCkK</text>
+        <text encoding="base64">ICBgcmVjZWl2ZV90aW1lYCBkYXRldGltZSBkZWZhdWx0IG5vdygpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBgZGF0ZWAgdmFyY2hhcigxNikgbm90IG51bGwsCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>VARCHAR</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBgc3RvY2tfdHlwZWAgVkFSQ0hBUigxNiksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBgY29tbWVudGAgdGV4dCwK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Lyog5Lqk5piT6K6w5b2VICovCkNSRUFURSBUQUJMRSBgdHJhZGVfcmVjb3JkYCAoCiAgYGlkYCAgICAgICAgICAgICAgQklHSU5UKDIwKSAgICAgICBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCwKICBgY3VzdGlkYCAgICAgICAgICBWQVJDSEFSKDEyKQogICAgICAgICAgICAgICAgICAgIENPTExBVEUgdXRmOF9iaW4gTk9UIE5VTEwgREVGQVVMVCAnJywKICBgZnVuZGlkYCAgICAgICAgICBWQVJDSEFSKDEyKQogICAgICAgICAgICAgICAgICAgIENPTExBVEUgdXRmOF9iaW4gTk9UIE5VTEwgREVGQVVMVCAnJywKICBgdW5pcXVlX2lkYCAgICAgICBWQVJDSEFSKDI1NSkKICAgICAgICAgICAgICAgICAgICBDT0xMQVRFIHV0ZjhfYmluIE5PVCBOVUxMIERFRkFVTFQgJycsCiAgYHN5bWJvbGAgICAgICAgICAgVkFSQ0hBUigyMCkKICAgICAgICAgICAgICAgICAgICBDT0xMQVRFIHV0ZjhfYmluIE5PVCBOVUxMIERFRkFVTFQgJycsCiAgYHRyYW5zX3R5cGVgICAgICAgVElOWUlOVCgyKSAgICAgICBOT1QgTlVMTCBERUZBVUxUICcwJywKICBgdGltZWAgICAgICAgICAgICBCSUdJTlQoMjApICAgICAgICAgICAgICAgIERFRkFVTFQgJzAnLAogIGBzaGFyZXNgICAgICAgICAgIElOVCgxMCkgICAgICAgICAgICAgICAgICAgREVGQVVMVCAnMCcsCiAgYHByaWNlYCAgICAgICAgICAgRE9VQkxFKDIwLCA0KSAgICAgICAgICAgICBERUZBVUxUICcwLjAwMDAnLAogIGBob2xkX3BlcmNlbnRgICAgIERPVUJMRSgyMCwgNCkgICAgICAgICAgICAgREVGQVVMVCAnMC4wMDAwJywKICBgdGF4YCAgICAgICAgICAgICBET1VCTEUoMjAsIDQpICAgICAgICAgICAgIERFRkFVTFQgJzAuMDAwMCcsCiAgYHRheF9yYXRlYCAgICAgICAgRE9VQkxFKDIwLCA0KSAgICAgICAgICAgICBERUZBVUxUICcwLjAwMDAnLAogIGBjb21taXNzaW9uYCAgICAgIERPVUJMRSgyMCwgNCkgICAgICAgICAgICAgREVGQVVMVCAnMC4wMDAwJywKICBgY29tbWlzc2lvbl9yYXRlYCBET1VCTEUoMjAsIDQpICAgICAgICAgICAgIERFRkFVTFQgJzAuMDAwMCcsCiAgYG90aGVyZmVlYCAgICAgICAgRE9VQkxFKDIwLCA0KSAgICAgICAgICAgICBERUZBVUxUICcwLjAwMDAnLAogIGBvdGhlcmZlZV9yYXRlYCAgIERPVUJMRSgyMCwgNCkgICAgICAgICAgICAgREVGQVVMVCAnMC4wMDAwJywKICBgc2VuZF9zdGF0dXNgICAgICBUSU5ZSU5UKDIpICAgICAgICAgICAgICAgIERFRkFVTFQgJzAnLAogIGB1cGRhdGVfdGltZWAgICAgIERBVEVUSU1FICAgICAgICAgICAgICAgICAgREVGQVVMVCBDVVJSRU5UX1RJTUVTVEFNUCwKICBQUklNQVJZIEtFWSAoYGlkYCksCiAgVU5JUVVFIEtFWSBgdW5pcXVlX2lkYCAoYHVuaXF1ZV9pZGApCikKICBFTkdJTkUgPSBJbm5vREIKICBERUZBVUxUIENIQVJTRVQgPSB1dGY4CiAgQ09MTEFURSA9IHV0ZjhfYmluOwo=</text>
+      <register name="7" type="4">
+        <text>票</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBVTklRVUUgS0VZIGBjdXN0aWRfc291cmNlYCAoYGN1c3RpZGAsIGBzb3VyY2VgKQo=</text>
+      <register name="8" type="4">
+        <text>股</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICB1bmlxdWUga2V5IChgdW5pcXVlX2lkYCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

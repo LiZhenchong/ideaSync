@@ -34,18 +34,18 @@
       <file name="/a.dummy" timestamp="1455648302225">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/glsc.broker.db.sql" timestamp="1455699026815">
-        <mark key="[" line="75" column="6" />
-        <mark key="]" line="78" column="1" />
+      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/glsc.broker.db.sql" timestamp="1455700071609">
+        <mark key="[" line="210" column="12" />
+        <mark key="]" line="178" column="3" />
         <mark key="^" line="78" column="1" />
-        <mark key="." line="78" column="1" />
+        <mark key="." line="178" column="3" />
       </file>
       <file name="$USER_HOME$/github/torobroker/server/src/main/resources/t2sdk-config.xml" timestamp="1454486576793">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/toro.db.sql" timestamp="1455699247826">
+      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/toro.db.sql" timestamp="1455700068561">
         <mark key="[" line="129" column="0" />
         <mark key="]" line="129" column="17" />
         <mark key="^" line="128" column="14" />
@@ -109,14 +109,14 @@
       <jump line="92" column="79" filename="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/main/JresTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyogVE9ETzog5b2T5pel5Lqk5piT5rWB5rC0Ki8K</text>
+      <register name="&quot;" type="4">
+        <text>外</text>
       </register>
       <register name="i" type="4">
         <text>hannel_i</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>外</text>
       </register>
       <register name="/" type="4">
         <text>appedner</text>
@@ -124,32 +124,32 @@
       <register name="0" type="2">
         <text encoding="base64">LyogVE9ETzog5b2T5pel5Lqk5piT5rWB5rC0Ki8K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBgcmVjZWl2ZV90aW1lYCBkYXRldGltZSBkZWZhdWx0IG5vdygpLAo=</text>
+      <register name="1" type="4">
+        <text>外</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBgZGF0ZWAgdmFyY2hhcigxNikgbm90IG51bGwsCg==</text>
+      <register name="2" type="4">
+        <text>场</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBgcmVhbF9wcm9maXRgIGRvdWJsZSgyMCw0KSBkZWZhdWx0IDAsCg==</text>
+        <text encoding="base64">ICBgcmVjZWl2ZV90aW1lYCBkYXRldGltZSBkZWZhdWx0IG5vdygpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBgZGF0ZWAgdmFyY2hhcigxNikgbm90IG51bGwsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBgeWVhcl9yYXRlYCBET1VCTEUoMjAsNCkgREVGQVVMVCAwLAo=</text>
+        <text encoding="base64">ICBgcmVhbF9wcm9maXRgIGRvdWJsZSgyMCw0KSBkZWZhdWx0IDAsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBgeWVhcl9hbW91bnRgIERPVUJMRSgyMCw0KSBERUZBVUxUIDAsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBgcXVhcnRlcl9yYXRlYCBET1VCTEUoMjAsNCkgREVGQVVMVCAwLAo=</text>
+        <text encoding="base64">ICBgeWVhcl9yYXRlYCBET1VCTEUoMjAsNCkgREVGQVVMVCAwLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBgcXVhcnRlcl9hbW91bnRgIERPVUJMRSgyMCw0KSBERUZBVUxUIDAsCg==</text>
+        <text encoding="base64">ICBgeWVhcl9hbW91bnRgIERPVUJMRSgyMCw0KSBERUZBVUxUIDAsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBgbW9udGhfcmF0ZWAgRE9VQkxFKDIwLDQpIERFRkFVTFQgMCwK</text>
+        <text encoding="base64">ICBgcXVhcnRlcl9yYXRlYCBET1VCTEUoMjAsNCkgREVGQVVMVCAwLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

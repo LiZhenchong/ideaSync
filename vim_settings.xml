@@ -34,22 +34,22 @@
       <file name="/a.dummy" timestamp="1455648302225">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/glsc.broker.db.sql" timestamp="1455689719294">
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="11" column="27" />
-        <mark key="^" line="11" column="27" />
-        <mark key="." line="11" column="27" />
+      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/glsc.broker.db.sql" timestamp="1455697077770">
+        <mark key="[" line="75" column="6" />
+        <mark key="]" line="78" column="1" />
+        <mark key="^" line="78" column="1" />
+        <mark key="." line="78" column="1" />
       </file>
       <file name="$USER_HOME$/github/torobroker/server/src/main/resources/t2sdk-config.xml" timestamp="1454486576793">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/toro.db.sql" timestamp="1455695306105">
-        <mark key="[" line="117" column="5" />
-        <mark key="]" line="117" column="5" />
-        <mark key="^" line="142" column="41" />
-        <mark key="." line="117" column="5" />
+      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/toro.db.sql" timestamp="1455697814658">
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="^" line="115" column="80" />
+        <mark key="." line="120" column="0" />
       </file>
       <file name="$USER_HOME$/github/toroback/server/src/main/resources/sql/core.db.sql" timestamp="1455695279741" />
       <file name="$USER_HOME$/github/toroback/server/src/main/java/com/toroback/web/controllers/PositionController.java" timestamp="1454672333836">
@@ -109,14 +109,14 @@
       <jump line="92" column="79" filename="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/main/JresTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>博</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBgcmVjZWl2ZV90aW1lYCBkYXRldGltZSBkZWZhdWx0IG5vdygpLAo=</text>
       </register>
       <register name="i" type="4">
         <text>hannel_i</text>
       </register>
       <register name="-" type="4">
-        <text>博</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>appedner</text>
@@ -124,32 +124,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBgYnJva2VyX2lkYCBWQVJDSEFSKDMyKSBOT1QgTlVMTCwK</text>
       </register>
-      <register name="1" type="4">
-        <text>博</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBgcmVjZWl2ZV90aW1lYCBkYXRldGltZSBkZWZhdWx0IG5vdygpLAo=</text>
       </register>
-      <register name="2" type="4">
-        <text>摊</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBgZGF0ZWAgdmFyY2hhcigxNikgbm90IG51bGwsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtLSDmjIHku5Pmr5TkvosKICBgaG9sZF9wZXJjZW50YCBET1VCTEUoMjAsNCkgREVGQVVMVCAwLAo=</text>
+        <text encoding="base64">ICBgcmVhbF9wcm9maXRgIGRvdWJsZSgyMCw0KSBkZWZhdWx0IDAsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBgdGltZWAgYmlnaW50KDIwKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>tinyint</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBgeWVhcl9yYXRlYCBET1VCTEUoMjAsNCkgREVGQVVMVCAwLAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>只</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBgeWVhcl9hbW91bnRgIERPVUJMRSgyMCw0KSBERUZBVUxUIDAsCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>单</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBgcXVhcnRlcl9yYXRlYCBET1VCTEUoMjAsNCkgREVGQVVMVCAwLAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>只</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBgcXVhcnRlcl9hbW91bnRgIERPVUJMRSgyMCw0KSBERUZBVUxUIDAsCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>单</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBgbW9udGhfcmF0ZWAgRE9VQkxFKDIwLDQpIERFRkFVTFQgMCwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

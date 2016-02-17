@@ -34,7 +34,7 @@
       <file name="/a.dummy" timestamp="1455648302225">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/glsc.broker.db.sql" timestamp="1455697077770">
+      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/glsc.broker.db.sql" timestamp="1455699026815">
         <mark key="[" line="75" column="6" />
         <mark key="]" line="78" column="1" />
         <mark key="^" line="78" column="1" />
@@ -45,11 +45,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/toro.db.sql" timestamp="1455697814658">
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="^" line="115" column="80" />
-        <mark key="." line="120" column="0" />
+      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/toro.db.sql" timestamp="1455699247826">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="17" />
+        <mark key="^" line="128" column="14" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="$USER_HOME$/github/toroback/server/src/main/resources/sql/core.db.sql" timestamp="1455695279741" />
       <file name="$USER_HOME$/github/toroback/server/src/main/java/com/toroback/web/controllers/PositionController.java" timestamp="1454672333836">
@@ -81,7 +81,7 @@
         <mark key="." line="66" column="59" />
         <mark key="^" line="66" column="59" />
       </file>
-      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/cgws.broker.db.sql" timestamp="1455694617420">
+      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/cgws.broker.db.sql" timestamp="1455698398550">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
@@ -110,7 +110,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBgcmVjZWl2ZV90aW1lYCBkYXRldGltZSBkZWZhdWx0IG5vdygpLAo=</text>
+        <text encoding="base64">LyogVE9ETzog5b2T5pel5Lqk5piT5rWB5rC0Ki8K</text>
       </register>
       <register name="i" type="4">
         <text>hannel_i</text>
@@ -122,7 +122,7 @@
         <text>appedner</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBgYnJva2VyX2lkYCBWQVJDSEFSKDMyKSBOT1QgTlVMTCwK</text>
+        <text encoding="base64">LyogVE9ETzog5b2T5pel5Lqk5piT5rWB5rC0Ki8K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBgcmVjZWl2ZV90aW1lYCBkYXRldGltZSBkZWZhdWx0IG5vdygpLAo=</text>

@@ -45,12 +45,13 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/toro.db.sql" timestamp="1455690251922">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="52" column="8" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/toro.db.sql" timestamp="1455693231237">
+        <mark key="[" line="118" column="40" />
+        <mark key="]" line="117" column="8" />
+        <mark key="^" line="117" column="8" />
+        <mark key="." line="117" column="8" />
       </file>
+      <file name="$USER_HOME$/github/toroback/server/src/main/resources/sql/core.db.sql" timestamp="1455692718804" />
       <file name="$USER_HOME$/github/toroback/server/src/main/java/com/toroback/web/controllers/PositionController.java" timestamp="1454672333836">
         <mark key="[" line="328" column="26" />
         <mark key="]" line="328" column="29" />
@@ -109,13 +110,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBgdWlkYCBCSUdJTlQoMjApIE5PVCBOVUxMLAo=</text>
+        <text encoding="base64">ICBgdGltZWAgYmlnaW50KDIwKSwK</text>
       </register>
       <register name="i" type="4">
         <text>hannel_i</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>tinyint</text>
       </register>
       <register name="/" type="4">
         <text>appedner</text>
@@ -124,31 +125,31 @@
         <text encoding="base64">ICBgYnJva2VyX2lkYCBWQVJDSEFSKDMyKSBOT1QgTlVMTCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBgdWlkYCBCSUdJTlQoMjApIE5PVCBOVUxMLAo=</text>
+        <text encoding="base64">ICBgdGltZWAgYmlnaW50KDIwKSwK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAtLSDnlKjmiLdpZAo=</text>
+      <register name="2" type="4">
+        <text>tinyint</text>
       </register>
       <register name="3" type="4">
-        <text>r</text>
+        <text>只</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text>单</text>
       </register>
       <register name="5" type="4">
-        <text>k</text>
+        <text>只</text>
       </register>
       <register name="6" type="4">
-        <text>o</text>
+        <text>单</text>
       </register>
       <register name="7" type="4">
-        <text>r</text>
+        <text>只</text>
       </register>
       <register name="8" type="4">
-        <text>b</text>
+        <text>单</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBgdWlkYCBCSUdJTlQoMjApIE5PVCBOVUxMLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

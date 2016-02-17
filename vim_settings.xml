@@ -34,19 +34,19 @@
       <file name="/a.dummy" timestamp="1455648302225">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/glsc.broker.db.sql" timestamp="1455700071609">
+      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/glsc.broker.db.sql" timestamp="1455700072973">
         <mark key="[" line="210" column="12" />
-        <mark key="]" line="178" column="3" />
-        <mark key="^" line="78" column="1" />
-        <mark key="." line="178" column="3" />
+        <mark key="]" line="212" column="13" />
+        <mark key="^" line="212" column="13" />
+        <mark key="." line="212" column="13" />
       </file>
       <file name="$USER_HOME$/github/torobroker/server/src/main/resources/t2sdk-config.xml" timestamp="1454486576793">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/toro.db.sql" timestamp="1455700068561">
-        <mark key="[" line="129" column="0" />
+      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/toro.db.sql" timestamp="1455701668645">
+        <mark key="[" line="128" column="17" />
         <mark key="]" line="129" column="17" />
         <mark key="^" line="128" column="14" />
         <mark key="." line="129" column="0" />

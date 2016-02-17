@@ -45,11 +45,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/toro.db.sql" timestamp="1455693231237">
-        <mark key="[" line="118" column="40" />
-        <mark key="]" line="117" column="8" />
-        <mark key="^" line="117" column="8" />
-        <mark key="." line="117" column="8" />
+      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/toro.db.sql" timestamp="1455694533103">
+        <mark key="[" line="144" column="28" />
+        <mark key="]" line="143" column="6" />
+        <mark key="^" line="143" column="6" />
+        <mark key="." line="143" column="6" />
       </file>
       <file name="$USER_HOME$/github/toroback/server/src/main/resources/sql/core.db.sql" timestamp="1455692718804" />
       <file name="$USER_HOME$/github/toroback/server/src/main/java/com/toroback/web/controllers/PositionController.java" timestamp="1454672333836">

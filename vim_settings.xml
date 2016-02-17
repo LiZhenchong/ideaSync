@@ -45,13 +45,13 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/toro.db.sql" timestamp="1455714389646">
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="^" line="161" column="8" />
-        <mark key="." line="159" column="0" />
+      <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/toro.db.sql" timestamp="1455722569855">
+        <mark key="[" line="155" column="5" />
+        <mark key="]" line="155" column="5" />
+        <mark key="^" line="153" column="27" />
+        <mark key="." line="155" column="5" />
       </file>
-      <file name="$USER_HOME$/github/toroback/server/src/main/resources/sql/core.db.sql" timestamp="1455695279741" />
+      <file name="$USER_HOME$/github/toroback/server/src/main/resources/sql/core.db.sql" timestamp="1455721407314" />
       <file name="$USER_HOME$/github/toroback/server/src/main/java/com/toroback/web/controllers/PositionController.java" timestamp="1454672333836">
         <mark key="[" line="328" column="26" />
         <mark key="]" line="328" column="29" />
@@ -110,46 +110,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Tk9UIE5VTEwgLAogIA==</text>
+        <text>品</text>
       </register>
       <register name="i" type="4">
         <text>hannel_i</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>品</text>
       </register>
       <register name="/" type="4">
         <text>appedner</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LyogVE9ETzog5b2T5pel5Lqk5piT5rWB5rC0Ki8K</text>
+        <text encoding="base64">ICBgYnVzaW5lc3NfaWRgIFZBUkNIQVIoMTApIERFRkFVTFQgJycgTk9UIE5VTEwgLAo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Tk9UIE5VTEwgLAogIA==</text>
+        <text>品</text>
       </register>
       <register name="2" type="4">
-        <text>s</text>
+        <text>产</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBDT0xMQVRFID0gdXRmOF9iaW47Cg==</text>
+      <register name="3" type="4">
+        <text>,</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIGBzdGF0ZW1lbnRzYCAoCgopCiAgRU5HSU5FID0gSW5ub0RCCiAgREVGQVVMVCBDSEFSU0VUID0gdXRmOAo=</text>
+        <text encoding="base64">ICAjIyDkuqTmmJPnm7jlhbMKICAtLSDkubDljZbmlrnlkJEKICBgZW50cnVzdF9ic2AgVkFSQ0hBUigyKSBERUZBVUxUICcnLAogIC0tIOS5sOWNluaWueWQkeWQjeensAogIGBic19uYW1lYCBWQVJDSEFSKDYwKSBERUZBVUxUICcnLAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">Tk9UIE5VTEwgLAogIA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBDT0xMQVRFID0gdXRmOF9iaW47Cg==</text>
+      <register name="6" type="4">
+        <text>s</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICBDT0xMQVRFID0gdXRmOF9iaW47Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Q1JFQVRFIFRBQkxFIGBzdGF0ZW1lbnRzYCAoCgopCiAgRU5HSU5FID0gSW5ub0RCCiAgREVGQVVMVCBDSEFSU0VUID0gdXRmOAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>外</text>
-      </register>
-      <register name="9" type="4">
-        <text>场</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

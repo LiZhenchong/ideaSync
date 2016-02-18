@@ -10,10 +10,11 @@
         <mark key="." line="22" column="42" />
         <mark key="^" line="22" column="45" />
       </file>
-      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/utils/ProtoJsonUtil.java" timestamp="1455782426657">
-        <mark key="[" line="34" column="28" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
+      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/utils/ProtoJsonUtil.java" timestamp="1455783431826">
+        <mark key="[" line="19" column="68" />
+        <mark key="]" line="19" column="68" />
+        <mark key="." line="19" column="68" />
+        <mark key="^" line="19" column="68" />
       </file>
       <file name="/a.dummy" timestamp="1455733379704">
         <mark key="[" line="0" column="0" />
@@ -83,13 +84,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="i" type="4">
         <text>hannel_i</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>appedner</text>
@@ -98,31 +99,31 @@
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBEQVRBU0VUX1JFU1VMVCA9ICJyZXN1bHRfTCI7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
-      <register name="2" type="4">
-        <text>)</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgUFJNLgo=</text>
       </register>
       <register name="3" type="4">
-        <text>T</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name="5" type="4">
-        <text>AssetQueryResponse.class)</text>
+        <text>T</text>
       </register>
       <register name="6" type="4">
+        <text>(</text>
+      </register>
+      <register name="7" type="4">
+        <text>AssetQueryResponse.class)</text>
+      </register>
+      <register name="8" type="4">
         <text>AssetQueryResponse</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYnVpbGRlciA9IEFzc2V0UXVlcnlSZXNwb25zZS5uZXdCdWlsZGVyKCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYnVpbGRlciA9IEJpbmRJbmZvUmVzcG9uc2UubmV3QnVpbGRlcigpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYnVpbGRlciA9IFVuYmluZEV2ZW50UmVzcG9uc2UubmV3QnVpbGRlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgYnVpbGRlciA9IEFzc2V0UXVlcnlSZXNwb25zZS5uZXdCdWlsZGVyKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

@@ -10,7 +10,7 @@
         <mark key="." line="22" column="42" />
         <mark key="^" line="22" column="45" />
       </file>
-      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/utils/ProtoJsonUtil.java" timestamp="1455784419881">
+      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/utils/ProtoJsonUtil.java" timestamp="1455798666131">
         <mark key="[" line="19" column="68" />
         <mark key="]" line="19" column="68" />
         <mark key="." line="19" column="68" />
@@ -27,17 +27,17 @@
       </file>
       <file name="$USER_HOME$/github/toroagent/server/src/main/java/com/toroagent/utils/DataUtil.java" timestamp="1455732772055" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.4.5/de094907ce9aab8509792f5587c5c890ea2384d6/jackson-databind-2.4.5-sources.jar!/com/fasterxml/jackson/databind/node/JsonNodeType.java" timestamp="1455784978552" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hubspot.jackson/jackson-datatype-protobuf/0.7.0/9acfd34c073f970110eddca930e17def26656c66/jackson-datatype-protobuf-0.7.0-sources.jar!/com/hubspot/jackson/datatype/protobuf/ProtobufModule.java" timestamp="1455791037656" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hubspot.jackson/jackson-datatype-protobuf/0.7.0/9acfd34c073f970110eddca930e17def26656c66/jackson-datatype-protobuf-0.7.0-sources.jar!/com/hubspot/jackson/datatype/protobuf/ProtobufModule.java" timestamp="1455798723870" />
       <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/proto/ToroSetupContext.java" timestamp="1455790055731">
         <mark key="[" line="7" column="29" />
         <mark key="]" line="8" column="1" />
         <mark key="^" line="8" column="1" />
         <mark key="." line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/proto/ProtobufObjectMapper.java" timestamp="1455796305595">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/proto/ProtobufObjectMapper.java" timestamp="1455799194045">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/github/toroagent/server/src/main/java/com/toroagent/utils/DisplayUtil.java" timestamp="1455729784677" />
       <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/toro.db.sql" timestamp="1455778168520">
@@ -59,11 +59,17 @@
         <mark key="^" line="128" column="52" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.4.5/de094907ce9aab8509792f5587c5c890ea2384d6/jackson-databind-2.4.5-sources.jar!/com/fasterxml/jackson/databind/DeserializationConfig.java" timestamp="1455790210431" />
-      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/glsc/GlscService.java" timestamp="1455796753009">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-        <mark key="^" line="81" column="45" />
+      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/glsc/GlscService.java" timestamp="1455799825094">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
+        <mark key="^" line="121" column="35" />
+      </file>
+      <file name="$USER_HOME$/github/torobroker/server/build.gradle" timestamp="1455799346032">
+        <mark key="[" line="161" column="31" />
+        <mark key="]" line="163" column="11" />
+        <mark key="^" line="163" column="11" />
+        <mark key="." line="163" column="11" />
       </file>
       <file name="$USER_HOME$/github/toroagent/server/src/main/java/com/toroagent/kcbp/handler/StatementsHandler.java" timestamp="1455729954996" />
       <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/main/CallGlsc.java" timestamp="1454325192207">
@@ -82,7 +88,7 @@
       <file name="$USER_HOME$/github/toroback/server/src/main/java/com/toroback/dao/DAO.java" timestamp="1453731138109">
         <mark key="[" line="330" column="3" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hubspot.jackson/jackson-datatype-protobuf/0.7.0/9acfd34c073f970110eddca930e17def26656c66/jackson-datatype-protobuf-0.7.0-sources.jar!/com/hubspot/jackson/datatype/protobuf/ProtobufDeserializer.java" timestamp="1455790921881" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hubspot.jackson/jackson-datatype-protobuf/0.7.0/9acfd34c073f970110eddca930e17def26656c66/jackson-datatype-protobuf-0.7.0-sources.jar!/com/hubspot/jackson/datatype/protobuf/ProtobufDeserializer.java" timestamp="1455798366995" />
       <file name="$USER_HOME$/github/torobroker/server/src/main/resources/sql/glsc.broker.db.sql" timestamp="1455772953683">
         <mark key="[" line="210" column="12" />
         <mark key="]" line="212" column="13" />
@@ -114,10 +120,11 @@
       <file name="$USER_HOME$/github/toroback/server/src/main/java/com/toroback/utils/SecurityUtil.java" timestamp="1455732519406" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.4.5/de094907ce9aab8509792f5587c5c890ea2384d6/jackson-databind-2.4.5-sources.jar!/com/fasterxml/jackson/databind/JsonMappingException.java" timestamp="1455788672109" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.4.5/de094907ce9aab8509792f5587c5c890ea2384d6/jackson-databind-2.4.5-sources.jar!/com/fasterxml/jackson/databind/DeserializationFeature.java" timestamp="1455791425615" />
-      <file name="/fragment.java" timestamp="1455785448020">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+      <file name="/fragment.java" timestamp="1455798355331">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -129,46 +136,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgKChPYmplY3ROb2RlKSBhc3NldCkucmVtb3ZlKCJvZnN0b2NrIik7Cg==</text>
+        <text encoding="base64">ICAgIGNvbS5nb29nbGVjb2RlLnByb3RvYnVmLmZvcm1hdC5Kc29uRm9ybWF0Lm1lcmdlKGJ1aWxkZXIpCg==</text>
       </register>
       <register name="i" type="4">
         <text>hannel_i</text>
       </register>
       <register name="-" type="4">
-        <text>remove</text>
+        <text>\&quot;\&quot;</text>
       </register>
       <register name="/" type="4">
         <text>appedner</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgKChPYmplY3ROb2RlKSBhc3NldCkucmVtb3ZlKCJvZnN0b2NrIik7Cg==</text>
+        <text encoding="base64">ICAgICAgIiAgICAgXCJzdG9ja2hvbGRlclwiOiBbXSxcbiIgKwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgKChPYmplY3ROb2RlKSBhc3NldCkucmVtb3ZlKCJvZnN0b2NrIik7Cg==</text>
+        <text encoding="base64">ICAgIGNvbS5nb29nbGVjb2RlLnByb3RvYnVmLmZvcm1hdC5Kc29uRm9ybWF0Lm1lcmdlKGJ1aWxkZXIpCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>remove</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbS5nb29nbGVjb2RlLmNvbmN1cnJlbnR0cmVlcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEpzb25Ob2RlIGVtcHR5Tm9kZSA9IEpzb25Ob2RlLmRkCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5hbm5vdGF0aW9uLkpzb25Gb3JtYXQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgKE9iamVjdE5vZGUpCg==</text>
+        <text encoding="base64">ICAgIEpzb25Gb3JtYXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb3RvYnVmTW9kdWxlLnNldHVwTW9kdWxlKG51bGwpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5hbm5vdGF0aW9uLkpzb25Gb3JtYXQ7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb3RvYnVmTW9kdWxlLgo=</text>
+      <register name="6" type="4">
+        <text>\&quot;\&quot;</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByb3RvYnVmTW9kdWxlLnNldHVwTW9kdWxlKCk7Cg==</text>
+      <register name="7" type="4">
+        <text>]</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIE1vZHVsZS5TZXR1cENvbnRleHQgc2V0dXBDb250ZXh0ID0gbmV3IE1vZHVsZS5TZXR1cENvbnRleHQoKTsK</text>
+      <register name="8" type="4">
+        <text>[</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ3VyZShTZXJpYWxpemF0aW9uRmVhdHVyZS5XUklURV9OVUxMX01BUF9WQUxVRVMsIGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgIiAgICAgXCJzdG9ja2hvbGRlclwiOiBcIlwiLFxuIiArCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

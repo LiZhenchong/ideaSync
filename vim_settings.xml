@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/main/GlscTest.java" timestamp="1455862342317">
+      <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/main/GlscTest.java" timestamp="1455868456489">
         <mark key="[" line="10" column="45" />
-        <mark key="]" line="10" column="45" />
-        <mark key="." line="10" column="45" />
-        <mark key="^" line="19" column="33" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="41" column="0" />
       </file>
       <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/utils/ProtoJsonUtil.java" timestamp="1455806398697">
         <mark key="[" line="35" column="0" />
@@ -16,7 +16,7 @@
         <mark key="^" line="19" column="68" />
       </file>
       <file name="$USER_HOME$/github/toroback/server/src/main/java/com/toroback/dao/transaction/XueqiuService.java" timestamp="1455803333809" />
-      <file name="/a.dummy" timestamp="1455806958992">
+      <file name="/a.dummy" timestamp="1455862365910">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/torobroker/server/src/main/java/com/torobroker/utils/DataUtil.java" timestamp="1455732870557">
@@ -88,7 +88,7 @@
         <mark key="^" line="3" column="10" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1455806958985">
+      <file name="/Dummy.txt" timestamp="1455862365902">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/github/toroback/server/src/main/java/com/toroback/dao/DAO.java" timestamp="1453731138109">

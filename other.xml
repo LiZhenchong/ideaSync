@@ -129,6 +129,10 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="/usr/local/bin/node" version="4.2.2" last-modified="1446580417000" />
+    <node-interpreter path="/usr/local/Cellar/node/5.1.0/bin/node" version="5.1.0" last-modified="1447998803000" />
+  </component>
   <component name="PropertiesRefactoringSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS" value="true" />
   </component>

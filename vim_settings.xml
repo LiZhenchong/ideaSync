@@ -82,9 +82,9 @@
       </file>
       <file name="$USER_HOME$/github/torobroker/server/libs/com.hundsun.t2sdk-ext-1.1.12.jar!/com/hundsun/t2sdk/interfaces/share/event/EventTagdef.class" timestamp="1454470569286" />
       <file name="$USER_HOME$/github/torobroker/server/src/main/resources/t2sdk-config.xml" timestamp="1454486576793">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/github/torobroker/server/logs/torohundsun.log" timestamp="1454426676699" />
       <file name="/fragment.java" timestamp="1454575749982">

@@ -27,7 +27,6 @@
         </XML>
       </value>
     </option>
-    <option name="USE_PER_PROJECT_SETTINGS" value="true" />
     <option name="PREFERRED_PROJECT_CODE_STYLE" value="Default (1)" />
   </component>
   <component name="CvsApplicationLevelConfiguration">
@@ -130,10 +129,18 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="/usr/local/bin/node" version="4.2.2" last-modified="1446580417000" />
+    <node-interpreter path="/usr/local/Cellar/node/5.1.0/bin/node" version="5.1.0" last-modified="1447998803000" />
+  </component>
+  <component name="PropertiesRefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS" value="true" />
+  </component>
   <component name="RefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
-    <option name="MOVE_SEARCH_IN_COMMENTS" value="false" />
-    <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
+  </component>
+  <component name="SbtSettings">
+    <option name="jdkHome" value="" />
   </component>
   <component name="SelectProjectTemplateSettings">
     <option name="EXPERT_MODE" value="true" />

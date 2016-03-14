@@ -1,0 +1,12 @@
+<application>
+  <component name="libraryTable">
+    <library name="hundsun">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Desktop/torobroker/server/libs/hundsun" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$USER_HOME$/Desktop/torobroker/server/libs/hundsun" recursive="false" />
+    </library>
+  </component>
+</application>

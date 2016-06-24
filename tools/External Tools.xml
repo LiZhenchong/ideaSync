@@ -1,0 +1,37 @@
+<toolSet name="External Tools">
+  <tool name="Rustc" description="run with rustc" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/local/bin/rustc" />
+      <option name="PARAMETERS" value="\$FileName\$" />
+      <option name="WORKING_DIRECTORY" value="\$FileDir\$" />
+    </exec>
+  </tool>
+  <tool name="CargoRun" description="cargo run" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/local/bin/cargo" />
+      <option name="PARAMETERS" value="run" />
+      <option name="WORKING_DIRECTORY" value="\$ProjectFileDir\$" />
+    </exec>
+  </tool>
+  <tool name="CargoBuild" description="cargo build" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/local/bin/cargo" />
+      <option name="PARAMETERS" value="build" />
+      <option name="WORKING_DIRECTORY" value="\$ProjectFileDir\$" />
+    </exec>
+  </tool>
+  <tool name="CargoTest" description="cargo test" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/local/bin/cargo" />
+      <option name="PARAMETERS" value="test" />
+      <option name="WORKING_DIRECTORY" value="\$ProjectFileDir\$" />
+    </exec>
+  </tool>
+  <tool name="CargoFmt" description="cargo fmt" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/local/bin/cargo" />
+      <option name="PARAMETERS" value="fmt" />
+      <option name="WORKING_DIRECTORY" value="\$ProjectFileDir\$" />
+    </exec>
+  </tool>
+</toolSet>

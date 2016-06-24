@@ -10,7 +10,7 @@
     <exec>
       <option name="COMMAND" value="/usr/local/bin/cargo" />
       <option name="PARAMETERS" value="run" />
-      <option name="WORKING_DIRECTORY" value="\$ProjectFileDir\$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="CargoBuild" description="cargo build" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">

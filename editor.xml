@@ -6,7 +6,6 @@
     <option name="showMultipleContextsPanel" value="false" />
   </component>
   <component name="XmlEditorOptions">
-    <option name="breadcrumbsEnabledInXml" value="true" />
     <option name="showCssInlineColorPreview" value="true" />
   </component>
 </application>

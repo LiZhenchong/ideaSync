@@ -1,7 +1,8 @@
 <application>
   <component name="ProjectManager">
-    <defaultProject>
+    <defaultProject version="4">
       <component name="CompilerConfiguration">
+        <option name="DEFAULT_COMPILER" />
         <resourceExtensions />
         <wildcardResourcePatterns>
           <entry name="!?*.java" />
@@ -20,22 +21,13 @@
           </profile>
         </annotationProcessing>
       </component>
-      <component name="Encoding">
-        <file url="PROJECT" charset="UTF-8" />
-      </component>
       <component name="GradleLocalSettings">
         <option name="modificationStamps">
           <map>
             <entry key="$USER_HOME$/Downloads/mongo-hadoop-r1.3.2" value="2846040852000" />
-            <entry key="$USER_HOME$/Downloads/toroagent" value="1437436490000" />
             <entry key="$USER_HOME$/github/mongo-hadoop" value="2864240540000" />
-            <entry key="$USER_HOME$/github/springboot" value="1445935954000" />
-            <entry key="$USER_HOME$/github/toroagent/server" value="2880438900000" />
-            <entry key="$USER_HOME$/github/toroback/server" value="2898442874000" />
-            <entry key="$USER_HOME$/github/torobroker/server" value="2906165478000" />
-            <entry key="$USER_HOME$/toro/toroback/server" value="2907053802000" />
-            <entry key="$USER_HOME$/toro/torobroker/server" value="2907064398000" />
-            <entry key="$USER_HOME$/toroagent" value="1437467173000" />
+            <entry key="$USER_HOME$/github/toroagent/server" value="1437882082000" />
+            <entry key="$USER_HOME$/github/toroback/server" value="2869599688000" />
           </map>
         </option>
         <option name="externalProjectsViewState">
@@ -49,31 +41,8 @@
           </MavenGeneralSettings>
         </option>
       </component>
-      <component name="ProjectInspectionProfilesVisibleTreeState">
-        <entry key="Project Default">
-          <profile-state>
-            <expanded-state>
-              <State>
-                <id />
-              </State>
-              <State>
-                <id>CDI(Contexts and Dependency Injection) issues</id>
-              </State>
-              <State>
-                <id>Encapsulation issuesJava</id>
-              </State>
-              <State>
-                <id>Java</id>
-              </State>
-              <State>
-                <id>Spring</id>
-              </State>
-              <State>
-                <id>Spring AOPSpring</id>
-              </State>
-            </expanded-state>
-          </profile-state>
-        </entry>
+      <component name="NamedScopeManager">
+        <order />
       </component>
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
@@ -85,7 +54,10 @@
         <ConfirmationsSetting value="0" id="Add" />
         <ConfirmationsSetting value="0" id="Remove" />
       </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="false" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+      <component name="ProjectModuleManager">
+        <modules />
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" />
       <component name="PropertiesComponent">
         <property name="GoToClass.includeLibraries" value="false" />
         <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -93,7 +65,7 @@
         <property name="MemberChooser.sorted" value="false" />
         <property name="MemberChooser.showClasses" value="true" />
         <property name="MemberChooser.copyJavadoc" value="false" />
-        <property name="settings.editor.selected.configurable" value="http.proxy" />
+        <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
       <component name="RunManager">
@@ -192,28 +164,6 @@
         <option name="externalProjectsViewState">
           <projects_view />
         </option>
-      </component>
-      <component name="SvnConfiguration">
-        <configuration>$USER_HOME$/.subversion</configuration>
-      </component>
-      <component name="VcsContentAnnotationSettings">
-        <option name="myLimit" value="2678400000" />
-      </component>
-      <component name="masterDetails">
-        <states>
-          <state key="ProjectJDKs.UI">
-            <settings>
-              <last-edited>1.8</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-        </states>
       </component>
     </defaultProject>
   </component>

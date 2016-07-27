@@ -1,7 +1,0 @@
-<templateSet group="SQL">
-  <template name="tab" value="CREATE TABLE IF NOT EXISTS `$table$` (&#10;  -- 自增id&#10;  `$col$` BIGINT(20) PRIMARY KEY AUTO_INCREMENT,&#10;  -- 内容&#10;   $END$&#10;)&#10;  ENGINE = InnoDB&#10;  DEFAULT CHARSET = utf8&#10;  COLLATE = utf8_bin;" description="new table definition" toReformat="true" toShortenFQNames="false">
-    <variable name="table" expression="" defaultValue="&quot;new_table&quot;" alwaysStopAt="true" />
-    <variable name="col" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
-  </template>
-</templateSet>

@@ -1,10 +1,4 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
-  <action id="EditorToggleShowLineNumbers">
-    <keyboard-shortcut first-keystroke="shift meta s" />
-  </action>
-  <action id="ExternalSystem.ToggleAutoImport">
-    <keyboard-shortcut first-keystroke="shift meta o" />
-  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>

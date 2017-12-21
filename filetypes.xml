@@ -4,6 +4,7 @@
       <mapping pattern="README" type="Markdown" />
       <removed_mapping ext="md" type="Markdown" />
       <mapping ext="md" type="Native" />
+      <mapping pattern="lll" type="PLAIN_TEXT" />
       <mapping pattern=".part-00001.crc" type="PLAIN_TEXT" />
       <mapping pattern="user-map.list" type="PLAIN_TEXT" />
       <mapping pattern="._SUCCESS.crc" type="PLAIN_TEXT" />

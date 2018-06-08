@@ -4,6 +4,7 @@
       <mapping pattern="README" type="Markdown" />
       <mapping pattern="assembly.sbt" type="Native" />
       <mapping pattern="lll" type="PLAIN_TEXT" />
+      <mapping pattern=".history" type="PLAIN_TEXT" />
       <mapping pattern=".part-00001.crc" type="PLAIN_TEXT" />
       <mapping pattern="._SUCCESS.crc" type="PLAIN_TEXT" />
       <mapping pattern="user-map.list" type="PLAIN_TEXT" />

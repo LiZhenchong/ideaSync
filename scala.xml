@@ -5,6 +5,6 @@
     <option name="COMPILE_SERVER_ID" value="6f3129c1-2a46-4823-8d02-e97b2fe1f50d" />
     <option name="USE_DEFAULT_SDK" value="false" />
     <option name="COMPILE_SERVER_SDK" value="1.8" />
-    <option name="USE_PROJECT_HOME_AS_WORKING_DIR" value="true" />
+    <option name="COMPILE_SERVER_SHUTDOWN_IDLE" value="false" />
   </component>
 </application>
